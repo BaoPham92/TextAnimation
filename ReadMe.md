@@ -7,6 +7,8 @@ I decided to make a nice text animation for the landing page. Definitely would s
 From 2 days of reading docs, experimenting, guides, incorrect code implementation due to keyframe timings, I finally made animated texts using CSS3 @keyframes.
 ----------------------------------------------------------
 
+Chaining Animations.
+
 checklist:
 
 @Keyframes and properties excercises 1-6 from W3Schools.
