@@ -5,6 +5,7 @@ As a recent graduate of General Assembly, I am currently cleaning up my portfoli
 I decided to make a nice text animation for the landing page. Definitely would say I almost ripped my brain up trying to figure out how to chain animations on the same element.
 
 From 2 days of reading docs, experimenting, guides, incorrect code implementation due to keyframe timings, I finally made animated texts using CSS3 @keyframes.
+
 ----------------------------------------------------------
 
 Chaining Animations.
