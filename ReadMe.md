@@ -25,5 +25,5 @@ learned nth-of-type giving keyframe animation ease of use.
 
 - Very much enjoyable. Should stay away from the animation sugar. Losing track of time because "animations are fun" should not be a regular excuse haha.
 
-- Starting to write ReadMe's more often.  Writing one's own craft and learning process is helpful in memory, and clarity for references. 
+- Starting to write ReadMe's more often.  Writing one's own craft and learning process is helpful in memory, and clarity for references.
 
