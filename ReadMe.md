@@ -4,7 +4,7 @@ As a recent graduate of General Assembly, I am currently cleaning up my portfoli
 
 I decided to make a nice text animation for the landing page. Definitely would say I almost ripped my brain up trying to figure out how to chain animations on the same element.
 
-From 2 days of reading docs, experimenting, guides, incorrect code implementation due to keyframe timings, I finally made a texts animate using CSS3 Animate.
+From 2 days of reading docs, experimenting, guides, incorrect code implementation due to keyframe timings, I finally made animated texts using CSS3 @keyframes.
 
 ----------------------------------------------------------
 
@@ -26,4 +26,6 @@ learned nth-of-type giving keyframe animation ease of use.
 - Very much enjoyable. Should stay away from the animation sugar. Losing track of time because "animations are fun" should not be a regular excuse haha.
 
 - Starting to write ReadMe's more often.  Writing one's own craft and learning process is helpful in memory, and clarity for references.
+
+Deployed Link: https://baopham92.github.io/TextAnimation/
 
